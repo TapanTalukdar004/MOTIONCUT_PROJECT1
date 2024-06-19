@@ -35,7 +35,7 @@ The Basic Quiz Game is a simple Python program designed to ask users a series of
 2. **Run the script**:
 
     ```sh
-    python quiz_game.py
+    python project_1.py
     ```
 
 3. **Follow the on-screen instructions** to answer the quiz questions. The program will display your score at the end.
